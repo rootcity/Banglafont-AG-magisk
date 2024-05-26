@@ -16,4 +16,4 @@ Banglafont-AG-magisk is a magisk module for system bangla fomt
 * `Reboot✅`
 
 ### Font Publisher Web
-`FontBD`
+`লিপিঘর/Lipighor`
